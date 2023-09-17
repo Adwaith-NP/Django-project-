@@ -26,8 +26,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+##For locat network host include network ip '120.0.0' in ALLOWED_HOSTS
 ##CSRF_TRUSTED_ORIGINS = ['']
-##'172.20.10.3'
 # Application definition
 
 INSTALLED_APPS = [
